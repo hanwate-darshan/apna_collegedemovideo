@@ -1,5 +1,6 @@
 # apna-college-playlist
 this is a My first git repository. <br>
-author : Darshan Hanwate
+author : Darshan Ravindra Hanwate  <br>
+Course : Web Developer
 
 
