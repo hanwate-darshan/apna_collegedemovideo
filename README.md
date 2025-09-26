@@ -1,4 +1,5 @@
 # apna-college-playlist
-this is a My first git repository. author : Darshan Hanwate
+this is a My first git repository. <br>
+author : Darshan Hanwate
 
 
